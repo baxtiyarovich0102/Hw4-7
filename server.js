@@ -1,4 +1,9 @@
-// M1
+// // M1
+// Framework – bu dastur yaratishda foydalanish uchun tayyor tuzilma.
+//  U turli funksiyalarni o‘z ichiga oladi va kod yozishni soddalashtiradi.
+// Express.js framework hisoblanadi, chunki u Node.js uchun qulay va tayyor vositalarni taqdim etadi. 
+// U yordamida server yaratish, marshrutlarni sozlash va so‘rovlarni qayta ishlash ancha osonlashadi. 
+// Agar Express bo‘lmasa, bu jarayonni qo‘lda yozish ancha vaqt talab qilgan bo‘lardi.
 
 //M3
 const express = require("express");
